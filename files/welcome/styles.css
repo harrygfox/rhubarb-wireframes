@@ -1,0 +1,118 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:281px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:54px;
+  top:191px;
+  width:205px;
+  height:49px;
+  font-family:'STHeitiTC-Light', 'Heiti TC Light', 'Heiti TC';
+  font-weight:200;
+  font-style:normal;
+  font-size:48px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:206px;
+  height:50px;
+}
+#u1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:205px;
+  white-space:nowrap;
+}
+#u2 {
+  position:absolute;
+  left:56px;
+  top:260px;
+  width:200px;
+  height:10px;
+}
+#u2_start {
+  position:absolute;
+  left:-4px;
+  top:-5px;
+  width:14px;
+  height:20px;
+}
+#u2_end {
+  position:absolute;
+  left:191px;
+  top:-5px;
+  width:14px;
+  height:20px;
+}
+#u2_line {
+  position:absolute;
+  left:0px;
+  top:5px;
+  width:200px;
+  height:1px;
+}
+#u3 {
+  position:absolute;
+  left:56px;
+  top:370px;
+  width:200px;
+  height:40px;
+}
+#u3_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  height:41px;
+}
+#u3_img.mouseOver {
+}
+#u3.mouseOver {
+}
+#u3_img.mouseDown {
+}
+#u3.mouseDown {
+}
+#u4 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:196px;
+  word-wrap:break-word;
+}
+#u5 {
+  position:absolute;
+  left:31px;
+  top:280px;
+  width:250px;
+  height:45px;
+  text-align:center;
+}
+#u5_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:251px;
+  height:46px;
+}
+#u6 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:250px;
+  word-wrap:break-word;
+}
